@@ -11,11 +11,6 @@ owner = rahuman
 version = 9.0.1
 modtime = 1664607312.543746700
 
-[props/Android_logs]
-owner = rahuman
-version = 9.0.1
-modtime = 1664607820.294380200
-
 [props/android_logs]
 owner = rahuman
 version = 9.0.1
@@ -29,27 +24,17 @@ modtime = 1664608499.492425800
 [props/apache_logs]
 owner = rahuman
 version = 9.0.1
-modtime = 1664611644.986704100
+modtime = 1664722128.601384700
 
 [indexes/splunkmania_apache_idx]
 owner = rahuman
 version = 9.0.1
 modtime = 1664611710.961247500
 
-[props/blg_logs]
-owner = rahuman
-version = 9.0.1
-modtime = 1664613581.998550500
-
-[indexes/splankmania_bgl_idx]
-owner = rahuman
-version = 9.0.1
-modtime = 1664613753.530390400
-
 [props/hadoop_logs]
 owner = rahuman
 version = 9.0.1
-modtime = 1664614206.820389700
+modtime = 1664694523.352492300
 
 [props/hdfs_logs]
 owner = rahuman
@@ -64,7 +49,7 @@ modtime = 1664620117.497350800
 [props/healthapp_logs]
 owner = rahuman
 version = 9.0.1
-modtime = 1664621184.841830400
+modtime = 1664701154.014392700
 
 [indexes/splunkmania_healthapp_idx]
 owner = rahuman
@@ -124,7 +109,7 @@ modtime = 1664623708.698297400
 [props/proxifier_logs]
 owner = rahuman
 version = 9.0.1
-modtime = 1664623939.659937800
+modtime = 1664701493.927024500
 
 [indexes/splunkmania_proxifier_idx]
 owner = rahuman
@@ -174,4 +159,19 @@ modtime = 1664631141.473712500
 [props/zookeeper_logs]
 owner = rahuman
 version = 9.0.1
-modtime = 1664631199.855428400
+modtime = 1664699846.219107600
+
+[indexes/splunkmania_hadoop_idx]
+owner = rahuman
+version = 9.0.1
+modtime = 1664694853.039043800
+
+[props/bgl_logs]
+owner = rahuman
+version = 9.0.1
+modtime = 1664722276.570365800
+
+[indexes/splunkmania_bgl_idx]
+owner = rahuman
+version = 9.0.1
+modtime = 1664696410.428203800
